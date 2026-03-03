@@ -1,0 +1,5 @@
+{
+  "name": "Pinyin Pal",
+  "description": "Interactive Chinese Pinyin learning app featuring Initials (聲母) and Finals (韻母) cards with audio pronunciation and a combination sandbox.",
+  "requestFramePermissions": []
+}
